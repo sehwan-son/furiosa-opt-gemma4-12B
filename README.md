@@ -164,7 +164,7 @@ Configure the Furiosa Arena CLI once before using `scripts/rngd_test.sh`:
 ```sh
 cargo binstall furiosa-arena-cli
 
-rngd login
+furiosa-arena login
 ```
 
 The scheduler commands used for troubleshooting are:
